@@ -8,6 +8,8 @@
 # Copyright:   (c) User 2023
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
+
+#starter pack
 print("hello world",8)
 print(5)
 print(78+3)
